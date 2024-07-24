@@ -41,7 +41,6 @@
 <h3>My GitHub Stats</h3>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipuni01&show_icons=true&locale=en&layout=compact" alt="nipuni01" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipuni01&show_icons=true&locale=en&layout=compact&theme=dark"alt="nipuni01" /></p>
 
 
