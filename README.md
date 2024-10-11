@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/shamimsikder"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Nipuni+Gunawardana%F0%9F%91%8B;Always+Learning+New+Things" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://github.com/shamimsikder"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Nethma+Gunawardana%F0%9F%91%8B;Always+Learning+New+Things" alt="Typing SVG" /></a></p>
 
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **OOC**
 
-- 📫 How to reach me **nipunigunawardana777@gmail.com**
+- 📫 How to reach me **nethmagunawardana77@gmail.com**
 
 - ⚡ Fun fact **😎**
 
@@ -22,8 +22,8 @@
 
 <br>
 <div align="center">
-  <a href="mailto:nipunigunawardana777@gmail.com" target="top" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="nipuni-email"/>
+  <a href="mailto:nethmagunawardana77@gmail.com" target="top" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="nethma-email"/>
   </a>
 </div>
 
@@ -42,15 +42,15 @@
 <br>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipuni01&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" alt="nipuni01" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nethma07&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" alt="nethma07" />
 </p>
 
 
 <br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nipuni01&show_icons=true&theme=dark&locale=en" alt="nipuni01" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nethma07&show_icons=true&theme=dark&locale=en" alt="nethma07" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nipuni01&theme=dark" alt="nipuni01" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nethma07&theme=dark" alt="nethma07" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 
